@@ -1,0 +1,76 @@
+.createBtn
+{
+    float:right;
+    margin-bottom: 10px;;
+}
+.createModal
+{
+    background-color: #fafafa;
+    margin: auto;
+    width: 40%;
+    border-radius: 2%;
+    padding: 1px;
+    margin-top: 1.5%;
+    
+}
+.container
+{
+    margin:10%;
+    
+}
+.table
+{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.tableHeader
+{
+    background-color: #e0dfdf;
+}
+.tableCell:hover
+{
+cursor: pointer;
+background-color: aliceblue;
+}
+.MessageBox
+{
+    margin: auto;
+    width: 40%;
+    border-radius: 2%;
+    padding: 10px;
+    margin-top:1.5%;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.row
+{
+    margin-bottom:3%;
+}
+.InnerBox
+{
+    margin:5%;
+}
+.ActionsSection
+{
+    display: flex;
+    margin-top: 5%;
+    justify-content: left;
+}
+.backBtn
+{
+   padding-top: 2%;
+}
+u:hover
+{
+    cursor: pointer;
+}
+.actionBtns
+{
+    margin: 0 3% 0 0;
+}
+.bi-x-lg
+{
+    float: right;
+   margin:3%;
+}
+i:hover{
+    cursor: pointer;
+}
